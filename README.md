@@ -60,33 +60,17 @@ A project focused on making machine-learning concepts more understandable and in
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-</p>
+**Languages**  
+`Python` · `Java` · `C` · `JavaScript` · `TypeScript` · `Dart`
 
-### AI / ML
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM%20Applications-111827?style=flat-square" />
-</p>
+**AI / ML**  
+`PyTorch` · `Transformers` · `RAG` · `LLM Applications` · `Computer Vision` · `NLP`
 
-### Backend / Frontend / Tools
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+**Backend / Frontend**  
+`FastAPI` · `React` · `Flutter` · `SQLite` · `REST APIs`
+
+**Tools & Infrastructure**  
+`Docker` · `GitHub Actions` · `Git` · `Redis` · `Pinecone`
 
 ---
 
@@ -125,11 +109,13 @@ If you're interested in **RAG, multimodal AI, or open-source AI tooling**, contr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Punith968&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
+**Building in public • Learning continuously • Contributing to open source**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punith968&layout=compact&hide_border=true&theme=transparent)
+[![GitHub](https://img.shields.io/badge/GitHub-Punith968-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Punith968)
 
 </div>
+
+> Dynamic third-party GitHub statistics were intentionally removed because GitHub's image proxy was returning resource errors. The profile now uses native Markdown and text-based sections so it renders reliably.
 
 ---
 
