@@ -9,7 +9,8 @@ I build **AI-powered applications, multimodal systems, and practical developer t
 <p>
   <a href="https://github.com/Punith968">GitHub</a> •
   <a href="https://github.com/Punith968/MediRAG">MediRAG</a> •
-  <a href="https://github.com/Punith968/Momentum_AI">Momentum AI</a>
+  <a href="https://github.com/Punith968/Smart-crop-care">Smart Crop Care</a> •
+  <a href="https://github.com/Punith968/fantasy-cricket-optimizer">Fantasy Cricket Optimizer</a>
 </p>
 
 </div>
@@ -45,7 +46,7 @@ A productivity application combining task management, focus sessions, habit buil
 
 **Focus:** Flutter • Dart • AI • Local Storage • Productivity Systems
 
-→ [Explore Momentum AI](https://github.com/Punith968/momentum_ai)
+*(Repository coming soon)*
 
 ### 🔬 VisualML
 **Interactive Machine Learning**
@@ -54,7 +55,7 @@ A project focused on making machine-learning concepts more understandable and in
 
 **Focus:** TypeScript • Machine Learning • Visualization • Education
 
-→ [Explore VisualML](https://github.com/Punith968/visualml)
+*(Repository coming soon)*
 
 ---
 
@@ -86,8 +87,8 @@ A project focused on making machine-learning concepts more understandable and in
 | **[Fantasy Cricket Optimizer](https://github.com/Punith968/fantasy-cricket-optimizer)** | Dream11 lineup builder for IPL matches | XGBoost points model on 23.9K player-match rows; integer-programming lineup solver checked against brute force; post-toss re-optimization | XGBoost · PuLP · FastAPI · Next.js |
 | **[AI Presentation Agent](https://github.com/Punith968/presentation-agent)** | AI co-presenter for PPTX/PDF decks | Streaming narration over SSE, multi-provider LLM fallback, confidence-aware Q&A, neural TTS | Node.js · Express · React · OpenRouter / NVIDIA NIM |
 | **[TopRank](https://github.com/Punith968/TopRank)** | Deterministic candidate-ranking engine (hackathon) | Anomaly firewall for impossible profiles, weighted multi-signal scoring, BGE cross-encoder reranking, fact-based explanations | Python · sentence-transformers · Gradio |
-| **[Momentum AI](https://github.com/Punith968/momentum_ai)** | AI productivity and focus application | Tasks, focus sessions, habits, AI coaching | Flutter · Dart |
-| **[VisualML](https://github.com/Punith968/visualml)** | Interactive ML learning project | Visual, hands-on ML concepts | TypeScript |
+| **Momentum AI** *(coming soon)* | AI productivity and focus application | Tasks, focus sessions, habits, AI coaching | Flutter · Dart |
+| **VisualML** *(coming soon)* | Interactive ML learning project | Visual, hands-on ML concepts | TypeScript |
 
 Every project above (except Momentum AI and VisualML) has automated tests running in GitHub Actions.
 
