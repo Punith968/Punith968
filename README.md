@@ -9,7 +9,8 @@ I build **AI-powered applications, multimodal systems, and practical developer t
 <p>
   <a href="https://github.com/Punith968">GitHub</a> •
   <a href="https://github.com/Punith968/MediRAG">MediRAG</a> •
-  <a href="https://github.com/Punith968/Momentum_AI">Momentum AI</a>
+  <a href="https://github.com/Punith968/Smart-crop-care">Smart Crop Care</a> •
+  <a href="https://github.com/Punith968/fantasy-cricket-optimizer">Fantasy Cricket Optimizer</a>
 </p>
 
 </div>
@@ -45,7 +46,7 @@ A productivity application combining task management, focus sessions, habit buil
 
 **Focus:** Flutter • Dart • AI • Local Storage • Productivity Systems
 
-→ [Explore Momentum AI](https://github.com/Punith968/momentum_ai)
+*(Repository coming soon)*
 
 ### 🔬 VisualML
 **Interactive Machine Learning**
@@ -54,7 +55,7 @@ A project focused on making machine-learning concepts more understandable and in
 
 **Focus:** TypeScript • Machine Learning • Visualization • Education
 
-→ [Explore VisualML](https://github.com/Punith968/visualml)
+*(Repository coming soon)*
 
 ---
 
@@ -66,23 +67,30 @@ A project focused on making machine-learning concepts more understandable and in
 **AI / ML**  
 `PyTorch` · `Transformers` · `RAG` · `LLM Applications` · `Computer Vision` · `NLP`
 
+**ML libraries**  
+`scikit-learn` · `XGBoost` · `sentence-transformers` · `PuLP (optimization)`
+
 **Backend / Frontend**  
-`FastAPI` · `React` · `Flutter` · `SQLite` · `REST APIs`
+`FastAPI` · `Node.js / Express` · `React` · `Next.js` · `Flutter` · `SQLite` · `REST APIs`
 
 **Tools & Infrastructure**  
-`Docker` · `GitHub Actions` · `Git` · `Redis` · `Pinecone`
+`Docker` · `GitHub Actions` · `Jenkins` · `pytest` · `Git` · `Redis` · `Pinecone`
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[MediRAG](https://github.com/Punith968/MediRAG)** | Multimodal graph-based RAG system | Python · FastAPI · React · Vector Search |
-| **[Momentum AI](https://github.com/Punith968/momentum_ai)** | AI productivity and focus application | Flutter · Dart · AI |
-| **[VisualML](https://github.com/Punith968/visualml)** | Interactive ML learning project | TypeScript |
-| **[Smart Crop Care](https://github.com/Punith968/Smart-crop-care)** | AI-assisted agriculture project | Flutter · Dart |
-| **[TopRank](https://github.com/Punith968/TopRank)** | Python-based application/project | Python |
+| Project | What it is | Highlights | Stack |
+|---|---|---|---|
+| **[MediRAG](https://github.com/Punith968/MediRAG)** | Multimodal graph-based RAG over documents, images and audio | Pluggable LLM-provider and vector-store interfaces, retrieval metrics (recall@k, precision@k), CI | FastAPI · React · Pinecone · CLIP · Whisper · Redis · Docker |
+| **[Smart Crop Care](https://github.com/Punith968/Smart-crop-care)** | Crop, fertilizer, cost and leaf-disease advisory for farmers | Random Forest / Extra Trees pipelines, ResNet-50 disease model (99.6% validation accuracy, 38 classes), English/Kannada dashboard | FastAPI · scikit-learn · PyTorch · React · Flutter |
+| **[Fantasy Cricket Optimizer](https://github.com/Punith968/fantasy-cricket-optimizer)** | Dream11 lineup builder for IPL matches | XGBoost points model on 23.9K player-match rows; integer-programming lineup solver checked against brute force; post-toss re-optimization | XGBoost · PuLP · FastAPI · Next.js |
+| **[AI Presentation Agent](https://github.com/Punith968/presentation-agent)** | AI co-presenter for PPTX/PDF decks | Streaming narration over SSE, multi-provider LLM fallback, confidence-aware Q&A, neural TTS | Node.js · Express · React · OpenRouter / NVIDIA NIM |
+| **[TopRank](https://github.com/Punith968/TopRank)** | Deterministic candidate-ranking engine (hackathon) | Anomaly firewall for impossible profiles, weighted multi-signal scoring, BGE cross-encoder reranking, fact-based explanations | Python · sentence-transformers · Gradio |
+| **Momentum AI** *(coming soon)* | AI productivity and focus application | Tasks, focus sessions, habits, AI coaching | Flutter · Dart |
+| **VisualML** *(coming soon)* | Interactive ML learning project | Visual, hands-on ML concepts | TypeScript |
+
+Every project above (except Momentum AI and VisualML) has automated tests running in GitHub Actions.
 
 ---
 
@@ -90,16 +98,19 @@ A project focused on making machine-learning concepts more understandable and in
 
 I'm working on turning **MediRAG** from a project into a more reusable open-source system.
 
-Current engineering goals:
+Done so far:
 
-- 🧱 Extract reusable RAG components
-- 🔌 Add provider abstractions
-- 📊 Build a RAG evaluation and benchmarking suite
-- 🗄️ Support pluggable vector stores
-- 🧪 Increase automated test coverage
-- 💻 Improve CPU-friendly local development
-- 📚 Add provenance and citation tracking
-- 🤝 Make contribution paths easier for new developers
+- ✅ Provider abstraction for LLMs (`GenerationProvider`)
+- ✅ Pluggable vector-store interface (`VectorStore`)
+- ✅ Retrieval evaluation metrics and an automated test suite in CI
+- ✅ CPU-only development profile
+
+Next:
+
+- 📊 End-to-end RAG benchmark on a public dataset
+- 🦙 Local/offline LLM inference profile
+- 📚 Provenance and citation tracking
+- 🧱 Package the reusable RAG components
 
 If you're interested in **RAG, multimodal AI, or open-source AI tooling**, contributions are welcome.
 
@@ -114,8 +125,6 @@ If you're interested in **RAG, multimodal AI, or open-source AI tooling**, contr
 [![GitHub](https://img.shields.io/badge/GitHub-Punith968-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Punith968)
 
 </div>
-
-> Dynamic third-party GitHub statistics were intentionally removed because GitHub's image proxy was returning resource errors. The profile now uses native Markdown and text-based sections so it renders reliably.
 
 ---
 
